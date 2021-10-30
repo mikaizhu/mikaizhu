@@ -31,7 +31,7 @@ you can put your gifs right there
 - 👋🏻 Meeting new people
 
 #### I use
-- `C++`, `Python`, `Docker`, `Shell Script`
+- `C++`, `Python`, `Docker`, `Shell Script`, `Vim Script`
 
 
 #### Contact me
