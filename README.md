@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### W e l c o m e 👋
 
-### I'm a Student in ShenZhen University 
+### I'm a Student of ShenZhen University 
 
 #### Interested in
 
