@@ -35,4 +35,4 @@ you can put your gifs right there
 
 
 #### Contact me
-- 📜 [Gmail][mcspero123@gmail.com], [QQ][747876457@qq.com]
+- 📜 [Gmail](mcspero123@gmail.com), [QQ](747876457@qq.com)
